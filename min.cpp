@@ -1,3 +1,4 @@
+//function to calculate minimum value
 int CalculateMin(int values[], int size){
 	int min = values[0];
 	for(int i=1;i<size;i++){
