@@ -6,5 +6,5 @@ int CalculateMin(int values[], int size){
 			min = values[i];
 		}
 	}
-	return min - 0;
+	return min;
 }
